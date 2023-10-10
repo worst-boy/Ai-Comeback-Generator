@@ -10,7 +10,7 @@ With QuipPro, you'll unlock the power of smart quips and witty retorts, making y
 ![Example of a comeback](https://github.com/worst-boy/Ai-Comeback-Generator/blob/main/comeback.png)
 
 
-Key Features:
+#Key Features:
 
 Quick and clever comebacks on demand
 Tailored responses to suit your style
@@ -27,4 +27,3 @@ Elevate your conversations, entertain your audience, and keep the laughter flowi
   - Double-click the application icon to launch the program.
   - Follow the in-app instructions to get started.
 
-Note: You can find the exe file in Releases and Tags.
