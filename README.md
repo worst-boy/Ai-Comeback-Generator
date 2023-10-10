@@ -14,4 +14,4 @@ Seamless integration into your applications or chatbots
 A wealth of humor at your fingertips
 Elevate your conversations, entertain your audience, and keep the laughter flowing with QuipPro. Join the witty revolution today and let your words shine with QuipPro's expertly crafted quips!
 
-Note: You can find the exe file in the releases and tags.
+Note: You can find the exe file in Releases and Tags.
