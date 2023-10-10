@@ -6,7 +6,7 @@ Welcome to QuipPro, the cutting-edge AI comeback generator that takes wordplay t
 
 With QuipPro, you'll unlock the power of smart quips and witty retorts, making your conversations and content stand out from the crowd. This AI powerhouse leverages advanced natural language processing to generate snappy comebacks, puns, and jokes, ensuring you're always armed with the perfect response, no matter the situation.
 
-![Example of a comeback]()
+![Example of a comeback](https://github.com/worst-boy/Ai-Comeback-Generator/blob/main/comeback.png)
 
 Key Features:
 
