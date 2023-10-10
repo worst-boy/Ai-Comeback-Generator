@@ -12,11 +12,15 @@ With QuipPro, you'll unlock the power of smart quips and witty retorts, making y
 
 # **Key Features**:
 
-Quick and clever comebacks on demand
-Tailored responses to suit your style
-Seamless integration into your applications or chatbots
-A wealth of humor at your fingertips
-Elevate your conversations, entertain your audience, and keep the laughter flowing with QuipPro. Join the witty revolution today and let your words shine with QuipPro's expertly crafted quips!
+- Funny jokes
+- Roaster
+- 3 Mods (Badass, Professional, Confident)
+- Entertaining
+- Quick and clever comebacks on demand
+- Tailored responses to suit your style
+- Seamless integration into your applications or chatbots
+- A wealth of humor at your fingertips
+- Elevate your conversations, entertain your audience, and keep the laughter flowing with QuipPro. Join the witty revolution today and let your words shine with QuipPro's expertly crafted quips!
 
 # **Installation**:
 
