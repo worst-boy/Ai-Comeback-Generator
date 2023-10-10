@@ -18,7 +18,7 @@ Seamless integration into your applications or chatbots
 A wealth of humor at your fingertips
 Elevate your conversations, entertain your audience, and keep the laughter flowing with QuipPro. Join the witty revolution today and let your words shine with QuipPro's expertly crafted quips!
 
-- **Download the executable:** [Download My Awesome App](https://example.com/your-app.exe)
+- **Download the executable:** [QuipPro-Windows-installer-v1]([https://example.com/your-app.exe](https://github.com/worst-boy/Ai-Comeback-Generator/releases/download/QuipPro.v1/QuipPro.exe)
 - **Installation:**
   - Download the executable file.
   - Run the installer.
