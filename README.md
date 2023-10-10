@@ -18,4 +18,13 @@ Seamless integration into your applications or chatbots
 A wealth of humor at your fingertips
 Elevate your conversations, entertain your audience, and keep the laughter flowing with QuipPro. Join the witty revolution today and let your words shine with QuipPro's expertly crafted quips!
 
+- **Download the executable:** [Download My Awesome App](https://example.com/your-app.exe)
+- **Installation:**
+  - Download the executable file.
+  - Run the installer.
+  - Follow the on-screen instructions to complete the installation.
+- **Usage:**
+  - Double-click the application icon to launch the program.
+  - Follow the in-app instructions to get started.
+
 Note: You can find the exe file in Releases and Tags.
